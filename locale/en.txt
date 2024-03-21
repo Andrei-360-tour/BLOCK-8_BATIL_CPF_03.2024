@@ -1,0 +1,239 @@
+#: locale=en
+
+## Действие
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Медиа
+
+### Заголовок
+panorama_12B5CEF7_1946_C72D_4153_F0B436BCD51C.label = Beasement
+panorama_12C45721_193B_452B_4196_E10433F9AE25.label = Big east Inlet Manifold
+panorama_12C762C9_193B_BF7B_41A7_8B354165E1E1.label = Big east Inlet Manifold 1
+panorama_12C4DF3D_193B_C51C_4180_330CC7410DA7.label = Big east Inlet Manifold 2
+panorama_12C48CC9_193B_CB78_4179_5A40B99AE8E1.label = Big east Inlet Manifold 3
+panorama_12C48C34_1939_4B21_41B7_64146FFCBE8C.label = Big west Inlet Manifold
+panorama_12C72925_193A_CD20_41B2_1F0F6D1C4DD5.label = Big west Inlet Manifold 1
+panorama_12C74363_193A_FD2B_4151_A084C70E0728.label = Big west Inlet Manifold 2
+panorama_12C796C1_193A_C75E_41AC_80E74805B3A0.label = Big west Inlet Manifold 3
+map_17F66BA3_194B_4DC8_41B6_57AAEC402077.label = Block#8_CPF_1111
+panorama_12C7AFC7_193A_C563_41AE_6609027B922C.label = Cocrete Road 12
+panorama_12C4F21B_1939_5F1E_41B4_57462A066A16.label = Concrete Road & Gate
+panorama_12C52385_1939_FDE1_41B3_F6608572377E.label = Concrete Road 10
+panorama_12C4CEF5_1939_472D_417B_BF33DFF452BD.label = Concrete Road 12
+panorama_12C792E0_193B_5F27_41A1_02501762C2E4.label = Concrete Road 13
+panorama_12C7BAEC_193B_4F3E_41B5_99AB778FD20C.label = Concrete Road 14
+panorama_12C49A18_193B_CEEC_41A6_00736EC5EBE4.label = Concrete Road 15
+panorama_12C48766_193B_C52B_4154_9CFD3E66F6B5.label = Concrete Road 16
+panorama_12C4A157_193B_5D62_41B2_0911C89629BA.label = Concrete Road 17
+panorama_12C43692_193B_47E6_41AA_17C32D804EE3.label = Concrete Road 19
+panorama_12C5A2E6_193A_BF21_41B5_77135F522BF6.label = Concrete Road 20
+panorama_12C5DF2B_193A_C53B_41A8_F585C6CAE0E8.label = Concrete Road 21
+panorama_12C5DB50_193A_CD7C_41A2_522974643E1F.label = Concrete Road 22
+panorama_12C4709B_193A_BBE4_4193_11CB15232B13.label = Concrete Road 23
+panorama_12C46C72_1939_4B20_4185_9672102DC521.label = Concrete Road 24
+panorama_12C92B81_1939_4DE4_4171_8A5BA00B2D42.label = Concrete Road 25
+panorama_12C55D85_1939_45E0_41A1_46E86843034E.label = Concrete Road 8
+panorama_12C559CA_1939_4D7A_4196_C182057F931F.label = Concrete Road 9
+panorama_12CDDA1B_1939_4EE4_41B8_C76E2D38D06E.label = Concrete road
+panorama_12C9E69E_193E_C71E_41B7_49A93A086494.label = Concrete road  4
+panorama_12CA51F8_193E_DD21_419D_5B3783FDCC94.label = Concrete road  5
+panorama_14E0926F_193B_5F39_41B5_02E16092E2C1.label = Concrete road 1
+panorama_12CD1B27_193A_CD36_41B1_8AA54A69F94D.label = Concrete road 2
+panorama_12CE4FCF_1939_4576_41A0_CA1944D9017C.label = Concrete road 3
+panorama_12CADAC9_193F_4F67_41A8_16F740A8ED25.label = Concrete road 7
+panorama_12CA4D0D_193F_CAE1_4178_79D12C070901.label = Dashboard
+panorama_12C44233_1939_FF23_4194_D1C04666A0CB.label = Diesel-generator power unit
+panorama_12C47DDC_1939_C565_41AF_2FE06341D20F.label = Diesel-generator power unit 1
+panorama_12C399B3_1939_CD21_41B3_0016F9E732EA.label = Diesel-generator power unit 2
+panorama_12C49485_193B_BBEC_41B0_4EF70350C286.label = East Inlet Manifold
+panorama_12CEA7AA_193A_C53B_41B1_72452A08318E.label = Electric Dehydrator
+panorama_12CE2033_193A_DB22_41A1_DABA76F15AF0.label = Electric Dehydrator 1
+panorama_12CE18AD_1939_4B3B_4199_AE2334FCC697.label = Electric Dehydrator 2
+panorama_12CEF474_1939_5B2B_419D_3EC1A212504E.label = Electric Dehydrator 3
+panorama_12B5EAFD_1946_CF27_41AF_15A5080C28A1.label = Electrical Substation
+panorama_12B5C677_1946_C72C_41B0_E354405A0D28.label = Electrical Substation 1
+panorama_12B5D200_1946_DEE7_4185_AC16DCDFC7A0.label = Electrical Substation 2
+panorama_12B5CDE7_1946_C537_41A8_0C62BCD28318.label = Electrical Substation 3
+panorama_12B62A5A_1947_4F61_41AF_D196B35D4A91.label = Electrical Substation 4
+panorama_12B5F320_1946_BD21_41B3_A273E5EAA5A4.label = Entrance to the basement
+panorama_12C445FE_1939_C518_41A2_E250664965B4.label = Entry to Diesel-generator power unit
+panorama_12CA3758_1939_4561_4193_D35FA07ED3DA.label = Entry to Electrical Substation
+panorama_12C4D905_1939_4AE1_4198_8D3E9956569E.label = Entry to Mechanical workshop
+panorama_12B6DAC1_1947_4F6A_4194_4A4FBC4BF666.label = Fire Water Pump Station
+panorama_12B60725_1947_C52B_41B5_4448283FC031.label = Fire Water Pump Station
+panorama_12B63ECA_1947_4764_4198_81A1FFBEC377.label = Fire Water Pump Station
+panorama_12CAF17F_193E_BD16_418C_C0D4472B3B1B.label = Fire Water Pump Station 3
+panorama_12CD2EF2_193B_4727_419E_EC127C1D9F8D.label = Fire Water Pump Station _North
+panorama_12C52C1E_1939_CB1A_41B2_F185AD9A9B06.label = GAte to Water Treatment Unit
+panorama_12C51FD9_1939_C56E_419F_680A958EF85F.label = Gate
+panorama_12B60257_1947_7F16_41AC_2D63FE144EA6.label = Instrument Air Unit
+panorama_12B67079_1947_FB24_4165_F720069A6916.label = Instrument Air Unit
+panorama_12B67369_1947_DD24_41A5_BF48BD2EEF15.label = Instrument Air Unit
+panorama_12C9ED91_193E_C5E1_41A4_CAE9206E2B4D.label = Loading Station Pumping Unit
+panorama_12CA05EB_193E_C522_41AD_4ED4F26E1081.label = Loading Station Pumping Unit 2
+panorama_12CA1997_193E_CDE1_41B2_F042617D0452.label = Loading Station Pumping Unit1
+panorama_12C74B8F_193A_CDF6_4191_BE7DEAB875D3.label = Manifold  1
+panorama_12C7E747_193B_4576_41AA_81E8CDA116F6.label = Manifold 2
+panorama_12C4B224_1939_7F20_41B4_E1E45331DE9E.label = Manifold Area dashboard
+panorama_12C40588_1939_45E0_4190_07C883431F1B.label = Mechanical workshop
+panorama_12CA3E81_1939_47EA_41B2_E1BBB05758B8.label = Mechanical workshop 1
+panorama_12CAADDA_193E_C563_4194_1D77CF6D014D.label = Oil Heater
+panorama_12CAA9B1_193E_CD29_41A9_138AE6686BEC.label = Oil Heater 1
+panorama_12CA1E94_193F_47E6_41A5_3C44285A16B9.label = Oil Tank
+panorama_12C43476_193A_DB28_41B2_E5B442A57F23.label = On-Spec Oil Storage Tanks  (stage 2)
+panorama_12CE3B87_1939_4DEC_418B_E5CCC3A697CA.label = On-Spec Oil Storage Tanks  (stage 2)
+panorama_12CE5693_1939_47EE_41AC_5E625B67B614.label = On-Spec Oil Storage Tanks  (stage 2) 1
+panorama_12CEEE61_1939_C725_41B1_7012C5B99098.label = On-Spec Oil Storage Tanks  (stage 2) 3
+panorama_12CE0A28_1939_CF20_41B6_E15D841C736A.label = On-Spec Oil Storage Tanks  (stage 2) 4
+panorama_12CED69C_1939_C7E4_41AD_074BB7633CD6.label = On-Spec Oil Storage Tanks  (stage 2) 5
+panorama_12CE020E_1939_7EF6_4197_8A5FC69EE646.label = On-Spec Oil Storage Tanks  (stage 2) 6
+panorama_12CE0299_1939_BFEE_419B_4D998459523F.label = On-Spec Oil Storage Tanks  (stage 2) Berma
+panorama_12CECDAE_1939_C53D_41B8_31B2FA82A5A7.label = On-Spec Oil Storage Tanks  (stage 2) berm
+panorama_12C42802_193A_CAE1_4197_B53391E11A65.label = On-Spec Oil Storage Tanks  (stage 2) concrete srairs
+panorama_12CE1263_1939_DF23_4180_5E4AAF603F07.label = On-Spec Oil Storage Tanks  (stage 2) concrete stairs
+panorama_12CE39D3_1939_4D63_4190_B3600D10AB2E.label = On-Spec Oil Storage Tanks  (stage 2) pipeline
+panorama_12CE75CA_1939_4566_419F_59CDBA2169BD.label = On-Spec Oil Storage Tanks  (stage 2) pipeline 2
+panorama_12CA323F_193E_BF19_41A4_6BBFA5A787DF.label = On-Spec Oil Storage Tanks (stage 1)
+panorama_12C42E31_1939_4721_41B3_E2810CE3CFE3.label = Pipeline
+panorama_12C1A58A_1939_45E3_41A5_100377C84215.label = Road to Mechanical workshop
+panorama_12C9F20D_1939_5EE4_41B3_26FAD30C9DCC.label = Road to Mechanical workshop 1
+panorama_12CA6099_193F_DBE2_419B_D7A1BA929BA7.label = Three phase Separators
+panorama_12CA28D5_193F_4B6C_41A7_6D5D33C4D849.label = Three phase Separators 1
+panorama_12CBE4BB_193F_5B24_41B4_6080297A09D1.label = Three phase Separators 2
+panorama_12CBD18D_193F_7DFF_41B3_CBDF3C86DD4C.label = Three phase Separators 3
+panorama_12CB9D16_193F_4AEE_41B3_B4CCF77B326D.label = Three phase Separators 4
+panorama_12CBA8CE_193F_4B7A_419B_1E60D5DEA526.label = Three phase Separators 5
+panorama_12CAA4B5_193E_BB2C_41B3_4011A9C7932F.label = Three phase Separators 6
+panorama_12CA40CA_193E_DB6D_41A3_F16674CBDEA1.label = Three phase Separators 7
+panorama_12CA071D_193F_46E2_41B0_9B8CBB55E88A.label = Water Treatment Unit
+panorama_12CAA342_193F_5D6F_41A4_F36379A1626B.label = Water Treatment Unit 1
+panorama_12C57853_1939_4B6F_41A4_E2F67E96A470.label = Water Treatment Unit 11
+panorama_12CAEF68_193F_452E_41B2_45FE7CCFEEBC.label = Water Treatment Unit 2
+panorama_12CA7B6E_193F_CD3F_41B1_7BE719668C42.label = Water Treatment Unit 3
+panorama_12CA57D2_193F_C560_41AE_638319C13C9D.label = Water Treatment Unit 4
+panorama_12CBB3F7_193F_FD2D_41B1_042C12598749.label = Water Treatment Unit 5
+panorama_12C5EA50_1939_CF63_419B_2742A8452CC8.label = Water Treatment Unit 8
+panorama_12C56553_1939_4564_41B8_4F46DC20915E.label = West Inlet Manifold
+panorama_12C52534_1939_452D_418D_73D63402030C.label = img_20240207_152307_00_053_pureshot
+panorama_12C5411B_1939_5D1B_41B0_809D02AD33B2.label = img_20240207_152318_00_054_pureshot
+panorama_12C5FD40_1939_455C_41B8_E29A9BBADDAE.label = img_20240207_152336_00_055_pureshot
+panorama_12C5E6C3_1939_C762_419F_9B0ABD16C69E.label = img_20240207_152432_00_057_pureshot
+panorama_12C439D9_1939_CD64_4181_808D074465EE.label = img_20240207_154048_00_097_pureshot
+panorama_12B61631_1947_4724_41B5_B3F4AA0FCB5D.label = img_20240207_154732_00_114_pureshot
+
+### Изображение
+imlevel_5EF426F2_1BCA_C748_41B7_956ED07BE315.url = media/map_17F66BA3_194B_4DC8_41B6_57AAEC402077_en_0.jpg
+imlevel_5EF436F2_1BCA_C748_41B3_EBEC6254F12A.url = media/map_17F66BA3_194B_4DC8_41B6_57AAEC402077_en_1.jpg
+imlevel_5EF446F2_1BCA_C749_4184_B2C55D4AE906.url = media/map_17F66BA3_194B_4DC8_41B6_57AAEC402077_en_2.jpg
+imlevel_5EF456F2_1BCA_C749_41B0_CE5A9C2B91B3.url = media/map_17F66BA3_194B_4DC8_41B6_57AAEC402077_en_3.jpg
+imlevel_5EF466F2_1BCA_C749_4179_FC5DA7D19D41.url = media/map_17F66BA3_194B_4DC8_41B6_57AAEC402077_en_4.jpg
+
+### Поэтажный план
+
+## Скин
+
+### Image
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_en.png
+Image_079D942C_1B3F_DB22_41B8_5F3681878885.url = skin/Image_079D942C_1B3F_DB22_41B8_5F3681878885_en.png
+Image_084350FA_19CB_7B38_41AC_103D1CBE7D7F.url = skin/Image_084350FA_19CB_7B38_41AC_103D1CBE7D7F_en.jpg
+Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29.url = skin/Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29_en.png
+Image_718C71CD_60B6_E5E3_41B9_105D7970318F.url = skin/Image_718C71CD_60B6_E5E3_41B9_105D7970318F_en.jpg
+Image_731CA57E_60BF_A2A1_4190_01076897586C.url = skin/Image_731CA57E_60BF_A2A1_4190_01076897586C_en.jpg
+Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F.url = skin/Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F_en.jpg
+
+### Выпадающий список
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = BJ-WELL PAD 1/11
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = ELECTRICAL SUBSTATION
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE.label = FIRE WATER PUMP STATION
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = INLET MANIFOLD
+DropDown_26C82D74_194B_452C_41A1_A26660E9B84A.label = LOADING STATION
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = OIL STORAGE TANKS(ST1&2)
+DropDown_2362001A_1949_BB1A_415F_54297FAC16FD.label = OTHER
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = WATER TREATMENT UNIIT
+
+### Кнопка
+Button_307CB5CF_6057_FBCC_4181_83F08F76DF2A.label = AMENITIES
+Button_307F95CE_6057_FBCC_41C7_B333F07C8122.label = Bar
+Button_307F85CE_6057_FBCC_41D3_51C00DB92A20.label = Chill Out
+Button_41E392A5_60B9_0A08_41BF_F6AAFA87203B.label = FLOORPLAN
+Button_41E3D2A5_60B9_0A08_41B7_737D4607570D.label = INFO
+Button_41E382A5_60B9_0A08_41D5_3FD188EFFDD4.label = LOCATION
+Button_718FB1CD_60B6_E5E3_41D6_BCB4CCFDFBDC.label = LOREM IPSUM
+Button_307FD5CE_6057_FBCC_41CC_536DDA444F00.label = Lobby
+Button_3CA53F6D_60CE_68CC_41D0_97234605DBC6.label = Lorem Ipsum
+Button_3C2E84AF_60CE_584B_41C3_79FAE620CCE9.label = Lorem Ipsum
+Button_3B1F3FAF_60CE_684C_41A0_AD93990FC16F.label = Lorem Ipsum
+Button_03AA7C9B_60F5_E854_41D1_C29772B2A455.label = Lorem Ipsum
+Button_307F05CE_6057_FBCC_41D6_C582E4F8D33B.label = Lorem Ipsum
+Button_3AEC57F6_60D6_67DD_41D0_694A036298AF.label = Lorem Ipsum
+Button_3B92E10A_60D6_7834_41D1_4B446F9FB434.label = Lorem Ipsum
+Button_3BBB129C_60D6_784C_41D3_B811E1E9E26B.label = Lorem Ipsum
+Button_3BC5B42E_60D6_784D_41A3_6479FA21A1A9.label = Lorem Ipsum
+Button_3BF9B800_60D6_6834_41B0_F6309500A250.label = Lorem Ipsum
+Button_3B197998_60D6_6855_41C7_99A6C32E2384.label = Lorem Ipsum
+Button_3B3C7B5C_60D6_68CD_41D1_FFB577C80ADA.label = Lorem Ipsum
+Button_0210B80A_60F5_E834_41C2_262A279EA500.label = Lorem Ipsum
+Button_030C6B04_60CA_683C_419C_6C1F0B9EB051.label = Lorem Ipsum
+Button_3C35C0B9_60CD_F854_41CA_2F187FB8960F.label = Lorem Ipsum
+Button_3C58D2BC_60CD_F84C_41D7_7CB447A7D5BF.label = Lorem Ipsum
+Button_3C70C399_60CD_F854_41D6_488C924AD534.label = Lorem Ipsum
+Button_3C69544A_60CD_F835_41CA_C7312C7B3578.label = Lorem Ipsum
+Button_3D8024FE_60CD_F9CC_41D7_A101588235F6.label = Lorem Ipsum
+Button_3DBB65DA_60CD_FBD4_41D0_4F3B5CD606A9.label = Lorem Ipsum
+Button_3DF12A63_60CD_E8FB_41D0_83B1FB2CC56F.label = Lorem Ipsum
+Button_19640B96_60CA_685C_41D0_C3EFCA646A08.label = Lorem Ipsum
+Button_023318B5_60F5_E85C_41C2_C8C50D7C368E.label = Lorem Ipsum
+Button_02C35607_60F5_D83C_41D1_3F7BE5AB7368.label = Lorem Ipsum
+Button_3CF0E1E2_60CE_5BF4_4136_3FE02552AC94.label = Lorem Ipsum
+Button_3CE40290_60CE_5854_41D7_2608A956C59B.label = Lorem Ipsum
+Button_3C1F1344_60CE_583C_419A_D3E4ACDEA010.label = Lorem Ipsum
+Button_3C374402_60CE_5834_41C7_743903F3EAD1.label = Lorem Ipsum
+Button_039B0A9C_60F5_E84C_41B4_85DA5003EEFE.label = Lorem Ipsum
+Button_3C45F5D2_60CE_5BD4_41C0_CC1810D45E29.label = Lorem Ipsum
+Button_027E69DF_60F5_EBCC_41D0_DA549FE430A5.label = Lorem Ipsum
+Button_3B3673B8_60CF_B854_41B9_8AC7249D3A1B.label = Lorem Ipsum
+Button_3B031B65_60CE_E8FC_41CF_18C07E2E58B8.label = Lorem Ipsum
+Button_3B5DCD73_60CE_E8D4_41A0_A70D622FF822.label = Lorem Ipsum
+Button_3B4F7E10_60CE_E854_41D3_4200495C04EB.label = Lorem Ipsum
+Button_3B66CEDB_60CE_E9D4_41CA_2F3DAC235546.label = Lorem Ipsum
+Button_3C96EF55_60CE_E8DC_4180_0D3CE8FCB751.label = Lorem Ipsum
+Button_3C85A007_60CE_F83B_41B9_7D30CC9CF6EC.label = Lorem Ipsum
+Button_3CC3E3ED_60CE_FFCC_41C4_C48363B62A80.label = Lorem Ipsum
+Button_025CF94C_60F5_E8CC_41C7_4B0565CACC1A.label = Lorem Ipsum
+Button_50D923F0_6061_057B_41C9_1D2D7358B7CE.label = MENU
+Button_307E25CE_6057_FBCC_41D1_E295E5C3528A.label = Main Entrance
+Button_307FF5CE_6057_FBCC_41D5_405F882ECED2.label = Meeting Area 1
+Button_307FE5CE_6057_FBCC_41D1_2DA85B874499.label = Meeting Area 2
+Button_41E3F2A5_60B9_0A08_41C3_9FE9C5047659.label = PANORAMAS
+Button_41E3A2A5_60B9_0A08_41BE_55AB547304EE.label = PHOTOS
+Button_41E3B2A5_60B9_0A08_41BC_3A36B4FAF7B8.label = REALTOR
+Button_307E65CE_6057_FBCC_41D4_18C7A0A54239.label = RECEPTION
+Button_307F25D0_6057_FBD4_41B0_5E14C1D2FC22.label = RESTAURANTS
+Button_307F45CE_6057_FBCC_41D5_FD32EE2D5A78.label = ROOMS
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.pressedLabel = Reception
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.label = Reception
+Button_307F65CF_6057_FBCC_41BB_13FA17E2C9AB.label = SPORTS AREA
+Button_307FD5CF_6057_FBCC_41D4_AEEBAD314687.label = SWIMMING POOL
+Button_307FB5CE_6057_FBCC_41AE_9BF529C6E6AF.label = Terrace
+
+### Многострочный текст
+HTMLText_731F057E_60BF_A2A1_41C8_ACE4EB05FF54.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.37vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_718FA1CD_60B6_E5E3_41D3_6335BDF289A6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>DOLOR SIT AME</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.720000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:4.72vmin;font-family:'Montserrat';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.37vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;"> </SPAN><SPAN STYLE="font-size:3.61vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Montserrat';"><B>LOREM IPSUM:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:5.83vmin;font-family:'Montserrat';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_731CF57E_60BF_A2A1_41D7_B81B17089B91.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.469999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:8.47vmin;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.280000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.28vmin;font-family:'Montserrat';">Licensed Real Estate Salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Обозначение
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = COMPANY NAME
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = DOLOR SIT AMET
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151_mobile.text = LOREM
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918.text = RN-BATIL PTE.LTD
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = RN-MIDDLE EAST COMPANY LLC
+
+## Тур
+
+### Заголовок
+tour.name = BLOCK 8_BATIL_03.2024
+
+### Описание
